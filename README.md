@@ -1,7 +1,7 @@
 # Olá | Hi there! 👋
 
-BR Eu sou Maria Clara, estudante de Análise e Desenvolvimento de Sistemas.  
-🌎 I'm Maria Clara, a student of Systems Analysis and Development.
+BR Eu sou Maria Clara, estudante de Desenvolvimento de Sistemas.  
+🌎 I'm Maria Clara, a student of Systems Development.
 
 🛠️ C | Java | HTML | PHP | MySQL | CSS
 
