@@ -3,7 +3,7 @@
 BR Eu sou Maria Clara, sou formada em Análise e Desenvolvimento de Sistemas.  
 🌎 I'm Maria Clara, and I hold a degree in Systems Analysis and Development.
 
-🛠️ C | Java | HTML | PHP | MySQL | CSS | Python
+🛠️ C | HTML | PHP | MySQL | CSS | Python | Java | Aprimorando.
 
 ---
 
