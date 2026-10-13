@@ -11,6 +11,7 @@ BR Eu sou Maria Clara, sou formada em Análise e Desenvolvimento de Sistemas.
 
 BR: Busco uma oportunidade em projetos de automação e pesquisa em campos como Automação, Tecnologia Assistiva, ICM e Bioengenharia. 
 Gostaria de estudar e seguir na neuroengenharia no futuro.
+
 🌎 I am seeking opportunities in **Automation and Research projects** within fields such as Automation, Assistive Technology, ICM, and Bioengineering.
 I would like to study and pursue a career in neuroengineering in the future.
 
