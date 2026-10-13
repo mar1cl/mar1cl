@@ -1,26 +1,25 @@
-# Olá | Hi there! 👋
+# Olá!! | Hi there! 👋
 
-BR Eu sou Maria Clara, estudante de Desenvolvimento de Sistemas.  
-🌎 I'm Maria Clara, a student of Systems Development.
+BR Eu sou Maria Clara, sou formada em Análise e Desenvolvimento de Sistemas.  
+🌎 I'm Maria Clara, and I hold a degree in Systems Analysis and Development.
 
-🛠️ C | Java | HTML | PHP | MySQL | CSS
+🛠️ C | Java | HTML | PHP | MySQL | CSS | Python
 
 ---
 
 ### 🎯 **Objective | Objetivo**
 
-BR: Busco uma oportunidade como Desenvolvedora Full Stack Júnior ou Trainee, aplicando meus conhecimentos e continuando a evoluir na área de TI.  
-🌎 I’m looking for an opportunity as a **Junior or Trainee Full Stack Developer**, applying my knowledge and continuing to grow 
-in the IT field.
+BR: Busco uma oportunidade em projetos de automação e pesquisa em campos como Automação, Tecnologia Assistiva, ICM e Bioengenharia. 
+Gostaria de estudar e seguir na neuroengenharia no futuro.
+🌎 I am seeking opportunities in **Automation and Research projects** within fields such as Automation, Assistive Technology, ICM, and Bioengineering.
+I would like to study and pursue a career in neuroengineering in the future.
 
 ---
 
 ### 🌱 **Plans to grow...**  
-BR Tenho estudado novas linguagens como Python e JavaScript, e alguns frameworks.  
-🌎 I've been studying new languages like Python and JavaScript, along with some frameworks.
 
-BR Pretendo estudar Machine Learning e Deep Learning e, no futuro, aplicá-los na área da saúde.  
-🌎 I plan to study Machine Learning and Deep Learning to apply them in the healthcare area in the future.
+BR Pretendo aprimorar meus estudos em python e automação, além de estudar a anatomia e o cerebro humano para, aos poucos, entrar no campo de pesquisa da Bio e Neuroengenharia.  
+🌎 I intend to advance my studies in Python and automation, as well as study human anatomy and the brain, in order to gradually enter the field of bio and neuroengineering research.
 
 ---
 
